@@ -1,2 +1,3 @@
 # MWproject
-print ('Hello World')
+I used a RasberryPi 
+with an aplle keyboard
